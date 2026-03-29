@@ -1,52 +1,52 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Semana01Ejemplo01
+﻿namespace Semana01Ejemplo01
 {
     internal class ListaEnlazada
     {
-        private Nodo Cabeza;
+		// Referencia al primer nodo de la lista
+		private Nodo Cabeza;
 
-        public ListaEnlazada()
+		// Constructor para inicializar la lista vacía
+		public ListaEnlazada()
         {
             Cabeza = null;
         }
 
-        public void AgregarAlFinal(int dato)
+		// Método para agregar un nuevo nodo al final de la lista
+		// Aplicando el principio Guard Clause
+		public void AgregarAlFinal(int dato)
         {
             Nodo nuevoNodo = new Nodo(dato);
             if (Cabeza == null)
             {
                 Cabeza = nuevoNodo;
+                return;
             }
-            else
+            Nodo actual = Cabeza;
+            while (actual.Siguiente != null)
             {
-                Nodo actual = Cabeza;
-                while (actual.Siguiente != null)
-                {
-                    actual = actual.Siguiente;
-                }
-                actual.Siguiente = nuevoNodo;
+                actual = actual.Siguiente;
             }
+            actual.Siguiente = nuevoNodo;
         }
 
-        public void Imprimir()
+		// Método para imprimir los elementos de la lista
+		public void Imprimir()
         {
-            if (Cabeza == null)
+			// Principio Fail First: Verificar si la lista está vacía antes de intentar imprimir
+			if (Cabeza == null)
             {
                 Console.WriteLine("La lista está vacía.");
                 return;
             }
-            Nodo actual = Cabeza;
-            while (actual != null)
+			// Recorrer la lista desde la cabeza hasta el final, imprimiendo cada dato
+			Nodo actual = Cabeza; // Empezar desde el primer nodo
+			while (actual != null)
             {
-                Console.WriteLine(actual.Dato);
+                Console.Write(actual.Dato + " -> ");
                 actual = actual.Siguiente;
             }
-        }
+			Console.WriteLine(" NULL ");
+		}
 
     }
 }

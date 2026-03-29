@@ -1,0 +1,26 @@
+T1 = NotaPT (70%) +  NotaJP (30%)
+T2 = NotaPT (70%) +  NotaJP (30%)
+T3 = NotaProyecto (70%) +  NotaJP (30%)
+EF = NotaPT (60%) + NotaCisco (20%)   + NotaJP (20%)
+
+
+
+Elementos de la lista enlazada:
+10 -> 40 -> 30 -> 25 -> NULL
+Presione una tecla para salir...
+
+
+public void Imprimir()
+{
+	if (Cabeza == null)
+	{
+		Console.WriteLine("La lista está vacía.");
+		return;
+	}
+	Nodo actual = Cabeza;
+	while (actual != null)
+	{
+		Console.WriteLine(actual.Dato);
+		actual = actual.Siguiente;
+	}
+}

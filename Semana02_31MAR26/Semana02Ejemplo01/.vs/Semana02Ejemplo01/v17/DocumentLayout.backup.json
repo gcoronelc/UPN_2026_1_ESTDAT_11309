@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\EGCC\\Semana02\\Semana02Ejemplo01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E5CE-9CA4-4231-9AC0-407E50F41165}|Semana02Ejemplo01\\Semana02Ejemplo01.csproj|d:\\upn\\ug-estructura de datos\\egcc\\semana02\\semana02ejemplo01\\semana02ejemplo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E5CE-9CA4-4231-9AC0-407E50F41165}|Semana02Ejemplo01\\Semana02Ejemplo01.csproj|solutionrelative:semana02ejemplo01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E5CE-9CA4-4231-9AC0-407E50F41165}|Semana02Ejemplo01\\Semana02Ejemplo01.csproj|d:\\upn\\ug-estructura de datos\\egcc\\semana02\\semana02ejemplo01\\semana02ejemplo01\\operacioneslistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E5CE-9CA4-4231-9AC0-407E50F41165}|Semana02Ejemplo01\\Semana02Ejemplo01.csproj|solutionrelative:semana02ejemplo01\\operacioneslistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E5CE-9CA4-4231-9AC0-407E50F41165}|Semana02Ejemplo01\\Semana02Ejemplo01.csproj|d:\\upn\\ug-estructura de datos\\egcc\\semana02\\semana02ejemplo01\\semana02ejemplo01\\listaenlazada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E5CE-9CA4-4231-9AC0-407E50F41165}|Semana02Ejemplo01\\Semana02Ejemplo01.csproj|solutionrelative:semana02ejemplo01\\listaenlazada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E5CE-9CA4-4231-9AC0-407E50F41165}|Semana02Ejemplo01\\Semana02Ejemplo01.csproj|d:\\upn\\ug-estructura de datos\\egcc\\semana02\\semana02ejemplo01\\semana02ejemplo01\\elemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E5CE-9CA4-4231-9AC0-407E50F41165}|Semana02Ejemplo01\\Semana02Ejemplo01.csproj|solutionrelative:semana02ejemplo01\\elemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533E5CE-9CA4-4231-9AC0-407E50F41165}|Semana02Ejemplo01\\Semana02Ejemplo01.csproj|d:\\upn\\ug-estructura de datos\\egcc\\semana02\\semana02ejemplo01\\semana02ejemplo01\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533E5CE-9CA4-4231-9AC0-407E50F41165}|Semana02Ejemplo01\\Semana02Ejemplo01.csproj|solutionrelative:semana02ejemplo01\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperacionesListas.cs",
+              "DocumentMoniker": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\EGCC\\Semana02\\Semana02Ejemplo01\\Semana02Ejemplo01\\OperacionesListas.cs",
+              "RelativeDocumentMoniker": "Semana02Ejemplo01\\OperacionesListas.cs",
+              "ToolTip": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\EGCC\\Semana02\\Semana02Ejemplo01\\Semana02Ejemplo01\\OperacionesListas.cs",
+              "RelativeToolTip": "Semana02Ejemplo01\\OperacionesListas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T22:36:46.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListaEnlazada.cs",
+              "DocumentMoniker": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\EGCC\\Semana02\\Semana02Ejemplo01\\Semana02Ejemplo01\\ListaEnlazada.cs",
+              "RelativeDocumentMoniker": "Semana02Ejemplo01\\ListaEnlazada.cs",
+              "ToolTip": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\EGCC\\Semana02\\Semana02Ejemplo01\\Semana02Ejemplo01\\ListaEnlazada.cs",
+              "RelativeToolTip": "Semana02Ejemplo01\\ListaEnlazada.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAHAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:19:17.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\EGCC\\Semana02\\Semana02Ejemplo01\\Semana02Ejemplo01\\Nodo.cs",
+              "RelativeDocumentMoniker": "Semana02Ejemplo01\\Nodo.cs",
+              "ToolTip": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\EGCC\\Semana02\\Semana02Ejemplo01\\Semana02Ejemplo01\\Nodo.cs",
+              "RelativeToolTip": "Semana02Ejemplo01\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:09:55.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Elemento.cs",
+              "DocumentMoniker": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\EGCC\\Semana02\\Semana02Ejemplo01\\Semana02Ejemplo01\\Elemento.cs",
+              "RelativeDocumentMoniker": "Semana02Ejemplo01\\Elemento.cs",
+              "ToolTip": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\EGCC\\Semana02\\Semana02Ejemplo01\\Semana02Ejemplo01\\Elemento.cs",
+              "RelativeToolTip": "Semana02Ejemplo01\\Elemento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:08:49.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\EGCC\\Semana02\\Semana02Ejemplo01\\Semana02Ejemplo01\\Program.cs",
+              "RelativeDocumentMoniker": "Semana02Ejemplo01\\Program.cs",
+              "ToolTip": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\EGCC\\Semana02\\Semana02Ejemplo01\\Semana02Ejemplo01\\Program.cs",
+              "RelativeToolTip": "Semana02Ejemplo01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:08:20.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

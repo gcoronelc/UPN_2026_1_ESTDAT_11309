@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\Repositorio\\Semana02\\GestionProductos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35953C93-A683-47A6-8344-7F2291EF9E82}|GestionProductos\\GestionProductos.csproj|d:\\upn\\ug-estructura de datos\\repositorio\\semana02\\gestionproductos\\gestionproductos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35953C93-A683-47A6-8344-7F2291EF9E82}|GestionProductos\\GestionProductos.csproj|solutionrelative:gestionproductos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35953C93-A683-47A6-8344-7F2291EF9E82}|GestionProductos\\GestionProductos.csproj|D:\\UPN\\UG-ESTRUCTURA DE DATOS\\Repositorio\\Semana02\\GestionProductos\\gestionproductos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35953C93-A683-47A6-8344-7F2291EF9E82}|GestionProductos\\GestionProductos.csproj|solutionrelative:gestionproductos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35953C93-A683-47A6-8344-7F2291EF9E82}|GestionProductos\\GestionProductos.csproj|d:\\upn\\ug-estructura de datos\\repositorio\\semana02\\gestionproductos\\gestionproductos\\listaenlazada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35953C93-A683-47A6-8344-7F2291EF9E82}|GestionProductos\\GestionProductos.csproj|solutionrelative:gestionproductos\\listaenlazada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35953C93-A683-47A6-8344-7F2291EF9E82}|GestionProductos\\GestionProductos.csproj|d:\\upn\\ug-estructura de datos\\repositorio\\semana02\\gestionproductos\\gestionproductos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35953C93-A683-47A6-8344-7F2291EF9E82}|GestionProductos\\GestionProductos.csproj|solutionrelative:gestionproductos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35953C93-A683-47A6-8344-7F2291EF9E82}|GestionProductos\\GestionProductos.csproj|d:\\upn\\ug-estructura de datos\\repositorio\\semana02\\gestionproductos\\gestionproductos\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35953C93-A683-47A6-8344-7F2291EF9E82}|GestionProductos\\GestionProductos.csproj|solutionrelative:gestionproductos\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35953C93-A683-47A6-8344-7F2291EF9E82}|GestionProductos\\GestionProductos.csproj|d:\\upn\\ug-estructura de datos\\repositorio\\semana02\\gestionproductos\\gestionproductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35953C93-A683-47A6-8344-7F2291EF9E82}|GestionProductos\\GestionProductos.csproj|solutionrelative:gestionproductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\Repositorio\\Semana02\\GestionProductos\\GestionProductos\\Form1.cs",
+              "RelativeDocumentMoniker": "GestionProductos\\Form1.cs",
+              "ToolTip": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\Repositorio\\Semana02\\GestionProductos\\GestionProductos\\Form1.cs",
+              "RelativeToolTip": "GestionProductos\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T04:33:46.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\Repositorio\\Semana02\\GestionProductos\\GestionProductos\\Form1.cs",
+              "RelativeDocumentMoniker": "GestionProductos\\Form1.cs",
+              "ToolTip": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\Repositorio\\Semana02\\GestionProductos\\GestionProductos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestionProductos\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T03:04:30.551Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListaEnlazada.cs",
+              "DocumentMoniker": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\Repositorio\\Semana02\\GestionProductos\\GestionProductos\\ListaEnlazada.cs",
+              "RelativeDocumentMoniker": "GestionProductos\\ListaEnlazada.cs",
+              "ToolTip": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\Repositorio\\Semana02\\GestionProductos\\GestionProductos\\ListaEnlazada.cs",
+              "RelativeToolTip": "GestionProductos\\ListaEnlazada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T23:35:21.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\Repositorio\\Semana02\\GestionProductos\\GestionProductos\\Nodo.cs",
+              "RelativeDocumentMoniker": "GestionProductos\\Nodo.cs",
+              "ToolTip": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\Repositorio\\Semana02\\GestionProductos\\GestionProductos\\Nodo.cs",
+              "RelativeToolTip": "GestionProductos\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T23:35:01.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\Repositorio\\Semana02\\GestionProductos\\GestionProductos\\Producto.cs",
+              "RelativeDocumentMoniker": "GestionProductos\\Producto.cs",
+              "ToolTip": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\Repositorio\\Semana02\\GestionProductos\\GestionProductos\\Producto.cs",
+              "RelativeToolTip": "GestionProductos\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T23:34:46.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\Repositorio\\Semana02\\GestionProductos\\GestionProductos\\Program.cs",
+              "RelativeDocumentMoniker": "GestionProductos\\Program.cs",
+              "ToolTip": "D:\\UPN\\UG-ESTRUCTURA DE DATOS\\Repositorio\\Semana02\\GestionProductos\\GestionProductos\\Program.cs",
+              "RelativeToolTip": "GestionProductos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T23:34:27.738Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

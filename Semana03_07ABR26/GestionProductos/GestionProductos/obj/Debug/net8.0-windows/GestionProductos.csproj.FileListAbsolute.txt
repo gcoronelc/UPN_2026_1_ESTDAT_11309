@@ -1,0 +1,17 @@
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana03_07ABR26\GestionProductos\GestionProductos\bin\Debug\net8.0-windows\GestionProductos.exe
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana03_07ABR26\GestionProductos\GestionProductos\bin\Debug\net8.0-windows\GestionProductos.deps.json
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana03_07ABR26\GestionProductos\GestionProductos\bin\Debug\net8.0-windows\GestionProductos.runtimeconfig.json
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana03_07ABR26\GestionProductos\GestionProductos\bin\Debug\net8.0-windows\GestionProductos.dll
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana03_07ABR26\GestionProductos\GestionProductos\bin\Debug\net8.0-windows\GestionProductos.pdb
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana03_07ABR26\GestionProductos\GestionProductos\obj\Debug\net8.0-windows\GestionProductos.Form1.resources
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana03_07ABR26\GestionProductos\GestionProductos\obj\Debug\net8.0-windows\GestionProductos.csproj.GenerateResource.cache
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana03_07ABR26\GestionProductos\GestionProductos\obj\Debug\net8.0-windows\GestionProductos.GeneratedMSBuildEditorConfig.editorconfig
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana03_07ABR26\GestionProductos\GestionProductos\obj\Debug\net8.0-windows\GestionProductos.AssemblyInfoInputs.cache
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana03_07ABR26\GestionProductos\GestionProductos\obj\Debug\net8.0-windows\GestionProductos.AssemblyInfo.cs
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana03_07ABR26\GestionProductos\GestionProductos\obj\Debug\net8.0-windows\GestionProductos.csproj.CoreCompileInputs.cache
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana03_07ABR26\GestionProductos\GestionProductos\obj\Debug\net8.0-windows\GestionProductos.sourcelink.json
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana03_07ABR26\GestionProductos\GestionProductos\obj\Debug\net8.0-windows\GestionProductos.dll
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana03_07ABR26\GestionProductos\GestionProductos\obj\Debug\net8.0-windows\refint\GestionProductos.dll
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana03_07ABR26\GestionProductos\GestionProductos\obj\Debug\net8.0-windows\GestionProductos.pdb
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana03_07ABR26\GestionProductos\GestionProductos\obj\Debug\net8.0-windows\GestionProductos.genruntimeconfig.cache
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana03_07ABR26\GestionProductos\GestionProductos\obj\Debug\net8.0-windows\ref\GestionProductos.dll

@@ -1,0 +1,7 @@
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana05_21ABR26\DemoPila\DemoPila\bin\Debug\DemoPila.exe.config
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana05_21ABR26\DemoPila\DemoPila\bin\Debug\DemoPila.exe
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana05_21ABR26\DemoPila\DemoPila\bin\Debug\DemoPila.pdb
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana05_21ABR26\DemoPila\DemoPila\obj\Debug\DemoPila.csproj.AssemblyReference.cache
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana05_21ABR26\DemoPila\DemoPila\obj\Debug\DemoPila.csproj.CoreCompileInputs.cache
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana05_21ABR26\DemoPila\DemoPila\obj\Debug\DemoPila.exe
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana05_21ABR26\DemoPila\DemoPila\obj\Debug\DemoPila.pdb

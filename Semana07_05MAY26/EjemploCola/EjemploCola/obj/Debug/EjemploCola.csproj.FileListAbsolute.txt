@@ -1,0 +1,7 @@
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana07_05MAY26\EjemploCola\EjemploCola\bin\Debug\EjemploCola.exe.config
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana07_05MAY26\EjemploCola\EjemploCola\bin\Debug\EjemploCola.exe
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana07_05MAY26\EjemploCola\EjemploCola\bin\Debug\EjemploCola.pdb
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana07_05MAY26\EjemploCola\EjemploCola\obj\Debug\EjemploCola.csproj.AssemblyReference.cache
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana07_05MAY26\EjemploCola\EjemploCola\obj\Debug\EjemploCola.csproj.CoreCompileInputs.cache
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana07_05MAY26\EjemploCola\EjemploCola\obj\Debug\EjemploCola.exe
+D:\EGCC\UPN_2026_1_ESTDAT_11309\Semana07_05MAY26\EjemploCola\EjemploCola\obj\Debug\EjemploCola.pdb

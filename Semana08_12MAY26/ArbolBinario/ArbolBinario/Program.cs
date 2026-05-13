@@ -12,15 +12,14 @@ namespace ArbolBinario
         {
             ArbolBinario arbol = new ArbolBinario();
 
-            arbol.AgregarNodo(50);
             arbol.AgregarNodo(30);
-            arbol.AgregarNodo(70);
             arbol.AgregarNodo(20);
-            arbol.AgregarNodo(40);
+            arbol.AgregarNodo(70);
+            arbol.AgregarNodo(5);
+            arbol.AgregarNodo(25);
             arbol.AgregarNodo(60);
             arbol.AgregarNodo(80);
-            arbol.AgregarNodo(20);
-            arbol.AgregarNodo(55);
+            arbol.MostrarArbol();
             Console.WriteLine("-------------------------------------------------------------");
             arbol.ImprimirInOrden();
             Console.WriteLine("-------------------------------------------------------------");

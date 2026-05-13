@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -20,6 +21,36 @@ namespace ArbolBinario
         {
             Raiz = AgregarRecursivo(this.Raiz,dato);
          }
+
+        public void MostrarArbol()
+        {
+            this.MostrarArbol(this.Raiz, "", true);
+        }
+
+        public void MostrarArbol(Nodo raiz, string espacio = "", bool esUltimo = true)
+        {
+            if (raiz == null)
+                return;
+
+            Console.Write(espacio);
+
+            if (esUltimo)
+            {
+                Console.Write("└──");
+                espacio += "   ";
+            }
+            else
+            {
+                Console.Write("├──");
+                espacio += "│  ";
+            }
+
+            Console.WriteLine(raiz.Dato);
+
+            MostrarArbol(raiz.Izquierda, espacio, false);
+            MostrarArbol(raiz.Derecha, espacio, true);
+        }
+
 
         public Nodo AgregarRecursivo(Nodo raiz, int valor)
         {

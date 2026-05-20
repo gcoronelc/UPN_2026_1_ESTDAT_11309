@@ -1,0 +1,8 @@
+D:\UPN\UG-ESTRUCTURA DE DATOS\EGCC\Semana09\EjemploABB\EjemploABB\obj\Debug\EjemploABB.csproj.AssemblyReference.cache
+D:\UPN\UG-ESTRUCTURA DE DATOS\EGCC\Semana09\EjemploABB\EjemploABB\obj\Debug\EjemploABB.csproj.CoreCompileInputs.cache
+D:\UPN\UG-ESTRUCTURA DE DATOS\EGCC\Semana09\EjemploABB\EjemploABB\bin\Debug\EjemploABB.exe.config
+D:\UPN\UG-ESTRUCTURA DE DATOS\EGCC\Semana09\EjemploABB\EjemploABB\bin\Debug\EjemploABB.exe
+D:\UPN\UG-ESTRUCTURA DE DATOS\EGCC\Semana09\EjemploABB\EjemploABB\bin\Debug\EjemploABB.pdb
+D:\UPN\UG-ESTRUCTURA DE DATOS\EGCC\Semana09\EjemploABB\EjemploABB\obj\Debug\EjemploABB.exe
+D:\UPN\UG-ESTRUCTURA DE DATOS\EGCC\Semana09\EjemploABB\EjemploABB\obj\Debug\EjemploABB.pdb
+D:\UPN\UG-ESTRUCTURA DE DATOS\EGCC\Semana09\EjemploABB\EjemploABB\obj\Debug\EjemploABB.exe.config
